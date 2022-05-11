@@ -1,0 +1,5 @@
+package com.foodbox.config;
+
+public class ConfigCtrl {
+
+}
